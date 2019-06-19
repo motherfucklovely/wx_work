@@ -2,7 +2,7 @@
 #genggai
 spring:
    datasource:
-      url: jdbc:mysql://120.78.92.137:3306/kemao_1?useSSL=false&serverTimezone=CST&allowPublicKeyRetrieval=true
+      url: jdbc:mysql://127.0.0.1:3306/kemao_1?useSSL=false&serverTimezone=CST&allowPublicKeyRetrieval=true
       username: root
       password: 1234
    
