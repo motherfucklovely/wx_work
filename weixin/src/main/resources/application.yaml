@@ -3,7 +3,7 @@
 spring:
    datasource:
       url: jdbc:mysql://127.0.0.1:3306/kemao_1?useSSL=false&serverTimezone=CST&allowPublicKeyRetrieval=true
-      username: root
+      username: rossdf
       password: 1234
    
    # 配置Redis的连接信息
