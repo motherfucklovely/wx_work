@@ -6,7 +6,7 @@ spring:
 # serverTimezone=CST 指定服务器的时区，CST（China Standard Time）
       url: jdbc:mysql://127.0.0.1:3306/kemao_1?useSSL=false&serverTimezone=CST&allowPublicKeyRetrieval=true
       username: root
-      password: 12sdf
+      password: 1234
    jpa:
 # 自动生产DDL语句（数据定义语言），用于实现表结构自动创建
       generate-ddl: true
